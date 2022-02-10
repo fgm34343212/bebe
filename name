@@ -1,0 +1,1131 @@
+
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+	<meta charset="UTF-8">
+		<title>Bebê Expert &#8211; Portal do beb&ecirc;</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Bebê Expert &raquo; Feed" href="https://bebexpert.com.br/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Bebê Expert &raquo; Feed de comentários" href="https://bebexpert.com.br/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/bebexpert.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://bebexpert.com.br/wp-includes/css/dist/block-library/style.min.css?ver=5.9' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='hello-elementor-css'  href='https://bebexpert.com.br/wp-content/themes/hello-elementor/style.min.css?ver=2.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css'  href='https://bebexpert.com.br/wp-content/themes/hello-elementor/theme.min.css?ver=2.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://bebexpert.com.br/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-7-css'  href='https://bebexpert.com.br/wp-content/uploads/elementor/css/post-7.css?ver=1642206944' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://bebexpert.com.br/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.13.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='https://bebexpert.com.br/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='https://bebexpert.com.br/wp-content/uploads/elementor/css/global.css?ver=1642206945' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-9-css'  href='https://bebexpert.com.br/wp-content/uploads/elementor/css/post-9.css?ver=1643640413' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Condensed%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7COpen+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://bebexpert.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='https://bebexpert.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='https://bebexpert.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://bebexpert.com.br/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://bebexpert.com.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://bebexpert.com.br/wp-json/" /><link rel="alternate" type="application/json" href="https://bebexpert.com.br/wp-json/wp/v2/pages/9" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://bebexpert.com.br/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://bebexpert.com.br/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.9" />
+<link rel="canonical" href="https://bebexpert.com.br/" />
+<link rel='shortlink' href='https://bebexpert.com.br/' />
+<link rel="alternate" type="application/json+oembed" href="https://bebexpert.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbebexpert.com.br%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://bebexpert.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbebexpert.com.br%2F&#038;format=xml" />
+<link rel="icon" href="https://bebexpert.com.br/wp-content/uploads/2021/10/cropped-Bebe-Expert-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://bebexpert.com.br/wp-content/uploads/2021/10/cropped-Bebe-Expert-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://bebexpert.com.br/wp-content/uploads/2021/10/cropped-Bebe-Expert-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://bebexpert.com.br/wp-content/uploads/2021/10/cropped-Bebe-Expert-1-270x270.png" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" /></head>
+<body class="home page-template page-template-elementor_canvas page page-id-9 wp-custom-logo elementor-default elementor-template-canvas elementor-kit-7 elementor-page elementor-page-9">
+			<div data-elementor-type="wp-page" data-elementor-id="9" class="elementor elementor-9" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-8d8587a durma1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8d8587a" data-element_type="section" id="durma1" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-83c6949" data-id="83c6949" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3727fa2a elementor-widget elementor-widget-heading" data-id="3727fa2a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.3 - 28-12-2021 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Já foram preenchidas <b>95 vagas</b> de acesso ao sono de bebê.</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-71129ab1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="71129ab1" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b15fd10" data-id="b15fd10" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5517de00 elementor-widget elementor-widget-heading" data-id="5517de00" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">DOMINE ESSES 5 PASSOS <br>
+E você verá o seu Bebê Dormindo... <br> <span class="title1">
+De 8 a 12 horas Todas as Noites!</span></p>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-13548c43 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="13548c43" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-63feee26" data-id="63feee26" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5e61afe2 elementor-align-center soundyeah elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="5e61afe2" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.3 - 28-12-2021 */
+.elementor-widget.elementor-icon-list--layout-inline .elementor-widget-container{overflow:hidden}.elementor-widget .elementor-icon-list-items.elementor-inline-items{margin-right:-8px;margin-left:-8px}.elementor-widget .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-right:8px;margin-left:8px}.elementor-widget .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{width:auto;left:auto;right:auto;position:relative;height:100%;border-top:0;border-bottom:0;border-right:0;border-left-width:1px;border-style:solid;right:-8px}.elementor-widget .elementor-icon-list-items{list-style-type:none;margin:0;padding:0}.elementor-widget .elementor-icon-list-item{margin:0;padding:0;position:relative}.elementor-widget .elementor-icon-list-item:after{position:absolute;bottom:0;width:100%}.elementor-widget .elementor-icon-list-item,.elementor-widget .elementor-icon-list-item a{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;font-size:inherit}.elementor-widget .elementor-icon-list-icon+.elementor-icon-list-text{-ms-flex-item-align:center;align-self:center;padding-left:5px}.elementor-widget .elementor-icon-list-icon{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget .elementor-icon-list-icon svg{width:var(--e-icon-list-icon-size,1em);height:var(--e-icon-list-icon-size,1em)}.elementor-widget .elementor-icon-list-icon i{width:1.25em;font-size:var(--e-icon-list-icon-size)}.elementor-widget.elementor-widget-icon-list .elementor-icon-list-icon{text-align:var(--e-icon-list-icon-align)}.elementor-widget.elementor-widget-icon-list .elementor-icon-list-icon svg{margin:var(--e-icon-list-icon-margin,0 calc(var(--e-icon-list-icon-size, 1em) * .25) 0 0)}.elementor-widget.elementor-list-item-link-full_width a{width:100%}.elementor-widget.elementor-align-center .elementor-icon-list-item,.elementor-widget.elementor-align-center .elementor-icon-list-item a{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-widget.elementor-align-center .elementor-icon-list-item:after{margin:auto}.elementor-widget.elementor-align-center .elementor-inline-items{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-widget.elementor-align-left .elementor-icon-list-item,.elementor-widget.elementor-align-left .elementor-icon-list-item a{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;text-align:left}.elementor-widget.elementor-align-left .elementor-inline-items{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-widget.elementor-align-right .elementor-icon-list-item,.elementor-widget.elementor-align-right .elementor-icon-list-item a{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end;text-align:right}.elementor-widget.elementor-align-right .elementor-icon-list-items{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-widget:not(.elementor-align-right) .elementor-icon-list-item:after{left:0}.elementor-widget:not(.elementor-align-left) .elementor-icon-list-item:after{right:0}@media (max-width:1024px){.elementor-widget.elementor-tablet-align-center .elementor-icon-list-item,.elementor-widget.elementor-tablet-align-center .elementor-icon-list-item a,.elementor-widget.elementor-tablet-align-center .elementor-icon-list-items{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-widget.elementor-tablet-align-center .elementor-icon-list-item:after{margin:auto}.elementor-widget.elementor-tablet-align-left .elementor-icon-list-items{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-widget.elementor-tablet-align-left .elementor-icon-list-item,.elementor-widget.elementor-tablet-align-left .elementor-icon-list-item a{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;text-align:left}.elementor-widget.elementor-tablet-align-right .elementor-icon-list-items{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-widget.elementor-tablet-align-right .elementor-icon-list-item,.elementor-widget.elementor-tablet-align-right .elementor-icon-list-item a{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end;text-align:right}.elementor-widget:not(.elementor-tablet-align-right) .elementor-icon-list-item:after{left:0}.elementor-widget:not(.elementor-tablet-align-left) .elementor-icon-list-item:after{right:0}}@media (max-width:767px){.elementor-widget.elementor-mobile-align-center .elementor-icon-list-item,.elementor-widget.elementor-mobile-align-center .elementor-icon-list-item a,.elementor-widget.elementor-mobile-align-center .elementor-icon-list-items{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-widget.elementor-mobile-align-center .elementor-icon-list-item:after{margin:auto}.elementor-widget.elementor-mobile-align-left .elementor-icon-list-items{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-widget.elementor-mobile-align-left .elementor-icon-list-item,.elementor-widget.elementor-mobile-align-left .elementor-icon-list-item a{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;text-align:left}.elementor-widget.elementor-mobile-align-right .elementor-icon-list-items{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-widget.elementor-mobile-align-right .elementor-icon-list-item,.elementor-widget.elementor-mobile-align-right .elementor-icon-list-item a{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end;text-align:right}.elementor-widget:not(.elementor-mobile-align-right) .elementor-icon-list-item:after{left:0}.elementor-widget:not(.elementor-mobile-align-left) .elementor-icon-list-item:after{right:0}}</style>		<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-file-audio"></i>						</span>
+										<span class="elementor-icon-list-text">POR FAVOR, VERIFIQUE SE SEU ÁUDIO ESTÁ LIGADO!</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-995314f elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="995314f" data-element_type="widget" data-settings="{&quot;video_type&quot;:&quot;vimeo&quot;,&quot;show_image_overlay&quot;:&quot;yes&quot;,&quot;image_overlay&quot;:{&quot;url&quot;:&quot;https:\/\/bebexpert.com.br\/wp-content\/uploads\/2021\/10\/ELE-NA\u0303O-PARA-DE-CHORAR-ASSISTA-ATE\u0301-O-FINAL-VOCE\u0302-NA\u0303O-VAI-SE-ARREPENDER-3-compressed.jpg&quot;,&quot;id&quot;:28},&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.3 - 28-12-2021 */
+.elementor-widget-video .elementor-widget-container{overflow:hidden;-webkit-transform:translateZ(0);transform:translateZ(0)}.elementor-widget-video .elementor-open-inline .elementor-custom-embed-image-overlay{position:absolute;top:0;left:0;width:100%;height:100%;-webkit-background-size:cover;background-size:cover;background-position:50%}.elementor-widget-video .elementor-custom-embed-image-overlay{cursor:pointer;text-align:center}.elementor-widget-video .elementor-custom-embed-image-overlay:hover .elementor-custom-embed-play i{opacity:1}.elementor-widget-video .elementor-custom-embed-image-overlay img{display:block;width:100%}.elementor-widget-video .e-hosted-video .elementor-video{-o-object-fit:cover;object-fit:cover}</style>		<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<iframe class="elementor-video-iframe" allowfullscreen title="Reprodutor de vídeo de vimeo" src="https://player.vimeo.com/video/669964762?color&amp;autopause=0&amp;loop=0&amp;muted=0&amp;title=1&amp;portrait=1&amp;byline=1#t="></iframe>				<div class="elementor-custom-embed-image-overlay" style="background-image: url(https://bebexpert.com.br/wp-content/uploads/2021/10/ELE-NÃO-PARA-DE-CHORAR-ASSISTA-ATÉ-O-FINAL-VOCÊ-NÃO-VAI-SE-ARREPENDER-3-compressed.jpg);">
+																<div class="elementor-custom-embed-play" role="button">
+							<i aria-hidden="true" class="eicon-play"></i>							<span class="elementor-screen-only">Reproduzir vídeo</span>
+						</div>
+									</div>
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e59a659 elementor-widget elementor-widget-heading" data-id="e59a659" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default"><span style="color:#FE7373; font-weight:900">Parabéns! </span>Você acaba de ser selecionada para uma <br><span style="font-weight:900">MEGA OPORTUNIDADE</span><br>Assista o vídeo até o final e já te conto um novidade para você!</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-2ceef870 elementor-align-center durma1 elementor-widget elementor-widget-button" data-id="2ceef870" data-element_type="widget" id="durma1" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://ev.braip.com/checkout/pla9xqp2/che14zve" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">EU QUERO ACESSO AO <U>SONO DE BEBÊ AGORA</U></span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5a77ca6d durma1 elementor-widget elementor-widget-image" data-id="5a77ca6d" data-element_type="widget" id="durma1" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.3 - 28-12-2021 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img src="https://bebexpert.com.br/wp-content/uploads/2021/10/cartoes.png" title="cartoes.png" alt="cartoes.png" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-4243321f elementor-widget elementor-widget-html" data-id="4243321f" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+
+<style>
+
+    .btnAssistir2 {
+        cursor: pointer;
+    }
+
+    .modal-title {
+        color:#606060;
+        font-size: 18px;
+        font-family: Montserrat;
+        font-weight: 400;
+        letter-spacing: 1.2px;
+    }
+    
+    .form-integrado {
+        margin-top: 30px;
+    }
+
+  .wpcf7 input[type="text"],
+  .wpcf7 input[type="tel"] {
+    font-size: 14px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+  }
+  
+  .wpcf7 input[type="text"]:focus,
+  .wpcf7 input[type="tel"]:focus {
+    outline-style: none;
+  } 
+  
+  .wpcf7 input[type="submit"] {
+    height: 50px;
+    font-size: 15px;
+    width: 100%;
+    background-color: #22C750;
+    border-radius: 5px;
+    margin-top: 10px 
+   
+  }
+  
+  
+  .wpcf7 input[type="submit"]:hover {
+  	text-decoration: none;
+  	background-color: #228B22;
+  }
+  
+  .wpcf7 input[type="submit"]:focus {
+      outline-style: none;
+      text-decoration: none;
+  }
+  
+  .wpcf7 form.invalid .wpcf7-response-output,
+  .wpcf7 form.unaccepted .wpcf7-response-output {
+      color: #ffb900;
+      border-style: none;
+      font-family: Montserrat;
+      font-size: 14px;
+    }
+
+   .wpcf7 form.sent .wpcf7-response-output {
+      border-style: none;
+      color: #46b450;
+      font-family: Montserrat;
+      font-size: 14px;
+    }
+
+    @media only screen and (max-width: 480px) {
+        .modal-title {
+            font-size: 16px;
+    }
+    
+    .durma1 {animation:opac 0.8s}@keyframes opac{from{opacity:0} to{opacity:1}}
+
+</style>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3db39ece elementor-widget elementor-widget-html" data-id="3db39ece" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '397143318725662');
+  fbq('track', 'PageView');
+</script>
+<noscript><img loading="lazy" height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=397143318725662&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->		</div>
+				</div>
+				<div class="elementor-element elementor-element-6e9ed6b elementor-widget elementor-widget-html" data-id="6e9ed6b" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '397143318725662');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=397143318725662&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->		</div>
+				</div>
+				<div class="elementor-element elementor-element-3dadaf2 elementor-widget elementor-widget-html" data-id="3dadaf2" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<script>
+(function(w,d,s,t){
+    if(w._brpBstr)return;w._brpBstr=t;var f=d.getElementsByTagName(s)[0],j=d.createElement(s);
+    j.async=true;j.src="https://ev.braip.com/js/braip-booster.js?v="+t;
+    f.parentNode.insertBefore(j,f);
+})(window,document,'script',Date.now());
+</script>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-46f611de elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="46f611de" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-2f733e7f" data-id="2f733e7f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2e0b0fae elementor-widget elementor-widget-html" data-id="2e0b0fae" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<div id="1975303795">
+  <span class="titulo_comentario">
+   34 comentários
+  </span>
+  <div class="perfil">
+   <span class="nome">
+       
+    <img data-src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.38.54.png" class="lazyloaded" src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.38.54.png">
+    <noscript>
+     <img src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.38.54.png"/>
+    </noscript>
+    Marina Oliveira
+   </span>
+   <p>
+    Nossa eu estou chocada com os resultados que eu e meu marido tivemos, a Isabele ta dormindo a noite inteira, e só acorda mesmo quando ta com fome dai e so da de mama que ela ja volta a dormir #Amei obridado viu, huhu meu sono voltou.
+   </p>
+   <span class="infos">
+    Responder · Curtir · Seguir · 3 min
+   </span>
+  </div>
+  <div class="perfil">
+   <span class="nome">
+    <img data-src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.37.37.png" class=" lazyloaded" src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.37.37.png">
+    <noscript>
+     <img src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.37.37.png"/>
+    </noscript>
+   Juliana Andrade
+   </span>
+   <p>
+    Gente só sei de uma coisa o paz na terra que eu to tendo viu! A Cintia dorme que é uma beleza, mas o mais legal foi que aprendi mais sobre minha filha aplicando os ensinamentos! Muito bom Parabéns! 
+   </p>
+   <span class="infos">
+    Responder · Curtir · Seguir · 4 min
+   </span>
+  </div>
+  <div class="perfil">
+   <span class="nome">
+    <img data-src="https://i.imgur.com/RUBIbd6.jpg" class=" lazyloaded" src="https://i.imgur.com/RUBIbd6.jpg">
+    <noscript>
+     <img src="https://i.imgur.com/RUBIbd6.jpg"/>
+    </noscript>
+    Neusa Castro
+   </span>
+   <p>
+    Depois de gastar muito dinheiro com pediatra e tendo sempre a mesma resposta, resolvi experimentar uma alternativa e vou te falar viu! Amei esse método estou aplicando e já estou vendo os resultados.
+
+   </p>
+   <span class="infos">
+    Responder · Curtir · Seguir · 5 min
+   </span>
+  </div>
+  <div class="perfil">
+   <span class="nome">
+    <img data-src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.38.32.png" class=" lazyloaded" src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.38.32.png">
+    <noscript>
+     <img src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.38.32.png"/>
+    </noscript>
+    Danila Lobato
+   </span>
+   <p>
+    Esse conteúdo mudou minha vida, não aguentava mais noites acordadas, hoje finalmente eu sei o que fazer para meu principe dormir.
+   </p>
+   <span class="infos">
+    Responder · Curtir · Seguir · 12 min
+   </span>
+  </div>
+  <div class="perfil">
+   <span class="nome">
+    <img data-src="https://i.imgur.com/6bdxGic.jpg" class=" lazyloaded" src="https://i.imgur.com/6bdxGic.jpg">
+    <noscript>
+     <img src="https://i.imgur.com/6bdxGic.jpg"/>
+    </noscript>
+    Kleyton Freitas
+   </span>
+   <p>
+    Parabéns pessoal! Hoje eu e minha esposa temos uma rotina de sono saudável nossa bebê Gabi tem dormido feito uma anginha.
+   </p>
+   <span class="infos">
+    Responder · Curtir · Seguir · 19 min
+   </span>
+  </div>
+  <div class="perfil">
+   <span class="nome">
+    <img data-src="https://i.imgur.com/836Wmt9.jpg" class=" lazyloaded" src="https://i.imgur.com/836Wmt9.jpg">
+    <noscript>
+     <img src="https://i.imgur.com/836Wmt9.jpg"/>
+    </noscript>
+    Camila Silva
+   </span>
+   <p>
+    Só fico pensando porque não achei esse conteúdo antes, nossa teve um dia que eu fiquei com minha nora até as três e meia da manha porque minha neta nao dormia, comprei e mandei pra ela. kkkk
+   </p>
+   <span class="infos">
+    Responder · Curtir · Seguir · 24 min
+   </span>
+  </div>
+  <div class="perfil">
+   <span class="nome">
+    <img data-src="https://i.imgur.com/T4sDtBc.jpg" class=" lazyloaded" src="https://i.imgur.com/T4sDtBc.jpg">
+    <noscript>
+     <img src="https://i.imgur.com/T4sDtBc.jpg"/>
+    </noscript>
+    Junio Mendes
+   </span>
+   <p>
+    estou recomendando isso pra todos amigos pais de rescem nascidos, eu sei o que e perder uma noite inteira meu filho nao parava de gritar, e isso prejudicou muito meu casamento á se eu tivesse isso quando ele nasceu
+   </p>
+   <span class="infos">
+    Responder · Curtir · Seguir · 26 min
+   </span>
+  </div>
+  <div class="perfil">
+   <span class="nome">
+    <img data-src="https://i.imgur.com/n3R7DlP.jpg" class=" lazyloaded" src="https://i.imgur.com/n3R7DlP.jpg">
+    <noscript>
+     <img data-src="https://i.imgur.com/n3R7DlP.jpg" class="lazyload" src="https://i.imgur.com/n3R7DlP.jpg"/>
+     <noscript>
+      <img src="https://i.imgur.com/n3R7DlP.jpg"/>
+     </noscript>
+     Maria Clara
+    
+   </span>
+   <p>
+    Alguém sabe se funciona mesmo?
+   </p>
+   <span class="infos">
+    Responder · Curtir · Seguir · 31 min
+   </span>
+   <div class="perfil perfil2">
+    <span class="nome">
+     <img data-src="https://i.imgur.com/xPdkCA7.jpg" class=" lazyloaded" src="https://i.imgur.com/xPdkCA7.jpg">
+     <noscript>
+      <img src="https://i.imgur.com/xPdkCA7.jpg"/>
+     </noscript>
+     Thiago Borges
+    </span>
+    <p>
+     Maria funciona sim, só digo uma coisa o conteúdo clarificou muita coisa pra mim e minha esposa, nós ja estavamos sem saber o que fazer, hoje ja aplicamos tudo, e selecionamos o melhor pra nossa linda Raissa.
+    </p>
+    <span class="infos">
+     Responder · Curtir · Seguir · 3 min
+    </span>
+   </div>
+   <div class="perfil perfil2">
+    <span class="nome">
+     <img data-src="https://i.imgur.com/do0aorP.jpg" class=" lazyloaded" src="https://i.imgur.com/do0aorP.jpg">
+     <noscript>
+      <img src="https://i.imgur.com/do0aorP.jpg"/>
+     </noscript>
+     Antônio Barreto
+    </span>
+    <p>
+     Pode comprar <span style="color:#1262CD" > Maria Clara</span> Compramos e funciona tudo.
+    </p>
+    <span class="infos">
+     Responder · Curtir · Seguir · 3 min
+    </span>
+   </div>
+   <div class="perfil perfil2">
+    <span class="nome">
+     <img data-src="https://i.imgur.com/n3R7DlP.jpg" class=" lazyloaded" src="https://i.imgur.com/n3R7DlP.jpg">
+     <noscript>
+      <img data-src="https://i.imgur.com/n3R7DlP.jpg" class="lazyload" src="https://i.imgur.com/n3R7DlP.jpg"/>
+      <noscript>
+       <img src="https://i.imgur.com/n3R7DlP.jpg"/>
+      </noscript>
+      Maria Clara
+     
+    </span>
+    <p>
+     Obrigado pessoal, vou comprar e aplicar agora mesmo
+    </p>
+    <span class="infos">
+     Responder · Curtir · Seguir · 3 min
+    </span>
+   </div>
+  </div>
+  <div class="perfil">
+   <span class="nome">
+    <img data-src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.37.00.png" class=" lazyloaded" src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.37.00.png">
+    <noscript>
+     <img src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.37.00.png"/>
+    </noscript>
+    Daniela Lopes
+   </span>
+   <p>
+    Pessoal, não sou de ficar recomentando não, mas o que foi transformador em minha vida, nao consigo ficar sem dizer nada, muito obrigado pessoal! Recomendo!!!! 
+   </p>
+   <span class="infos">
+    Responder · Curtir · Seguir · 55 min
+   </span>
+  </div>
+  <div class="perfil">
+   <span class="nome">
+    <img data-src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.37.05.png" class=" lazyloaded" src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.37.05.png">
+    <noscript>
+     <img src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.37.05.png"/>
+    </noscript>
+    Emanuele Rodrigues
+   </span>
+   <p>
+    Pagaria muuuuuuuito mais! E digo, eu gritei isso na primeira noite que tive de sono completa, e corri pra ver minha pequena e ela estava linda dormindo.
+   </p>
+   <span class="infos">
+    Responder · Curtir · Seguir · 58 min
+   </span>
+  </div>
+  <div class="perfil">
+   <span class="nome">
+    <img data-src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.36.30.png" class=" lazyloaded" src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.36.30.png">
+    <noscript>
+     <img src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.36.30.png"/>
+    </noscript>
+    Juliana Duarte
+   </span>
+   <p>
+   Eu ja comprei hoje! So estou com uma dúvida eu aplico todas as tecnicas pra funcionar? Fiquei com essa dúvida
+   </p>
+   <span class="infos">
+    Responder · Curtir · Seguir · 1h
+   </span>
+   <div class="perfil perfil2">
+    <span class="nome">
+     <img data-src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.38.01.png" class=" lazyloaded" src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.38.01.png">
+     <noscript>
+      <img src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.38.01.png"/>
+     </noscript>
+     Patricia Miranda
+    </span>
+    <p>
+     Ei Juliana tudo bem? Eu tambem tenho essa dúvida!
+    </p>
+    <span class="infos">
+     Responder · Curtir · Seguir · 1h
+    </span>
+   </div>
+   <div class="perfil perfil2">
+    <span class="nome">
+     <img data-src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.37.56.png" class=" lazyloaded" src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.37.56.png">
+     <noscript>
+      <img src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.37.56.png"/>
+     </noscript>
+     Eliasa Monteiro
+    </span>
+    <p>
+     Oi pessoao tudo bem, eu ja aplico a algum tempo, não necessáriamente tem que aplicar todas, é bom você conhecer todas, mas não quer dizer que todas são para seu filho, pra mim uma funcionou que uma beleza então fico com ela mesmo, então aplico somente ela.    
+     </p>
+    <span class="infos">
+     Responder · Curtir · Seguir · 1h
+    </span>
+   </div>
+  </div>
+  <div class="perfil">
+   <span class="nome">
+    <img data-src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.38.36.png" class=" lazyloaded" src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.38.36.png">
+    <noscript>
+     <img src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.38.36.png"/>
+    </noscript>
+    Joana Soares
+   </span>
+   <p>
+    Comprei e recomendo!
+   </p>
+   <span class="infos">
+    Responder · Curtir · Seguir · 1h
+   </span>
+  </div>
+  <div class="perfil">
+   <span class="nome">
+    <img data-src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.37.17.png" class=" lazyloaded" src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.37.17.png">
+    <noscript>
+     <img src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.37.17.png"/>
+    </noscript>
+    Adriana Campos
+   </span>
+   <p>
+    O bom que eu encontrei quando ainda estava grávida, e nao tive que sofrer muito pois ja fui observando desde o inicio os vicios que a gente cria, e fui aplicando as rotinas da forma correta! Recomendo muito bom.
+   </p>
+   <span class="infos">
+    Responder · Curtir · Seguir · 1h
+   </span>
+  </div>
+  <div class="perfil">
+   <span class="nome">
+    <img data-src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.36.50.png" class=" lazyloaded" src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.36.50.png">
+    <noscript>
+     <img src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-01.36.50.png"/>
+    </noscript>
+    Cristiana Rodrigues
+   </span>
+   <p>
+    Visshhh, to dormindo igual pedra, uffa! Minha filhota se adaptou bem! Super recomendo!!!!
+   </p>
+   <span class="infos">
+    Responder · Curtir · Seguir · 1h
+   </span>
+  </div>
+  <div class="perfil">
+   <span class="nome">
+    <img data-src="https://i.imgur.com/w2gHyjv.jpg" class=" lazyloaded" src="https://i.imgur.com/w2gHyjv.jpg">
+    <noscript>
+     <img data-src="https://i.imgur.com/w2gHyjv.jpg" class="lazyload" src="https://i.imgur.com/w2gHyjv.jpg"/>
+     <noscript>
+      <img src="https://i.imgur.com/w2gHyjv.jpg"/>
+     </noscript>
+     Stefanny Bonifácio
+    
+   </span>
+   <p>
+    Estava em dúvida sobre esse ou o curso de uma outra profissional, mas vou te falar o dela estava muito caro, comprei esse e não me arrependi, muito barato pelo que aprendi e tenho colocado em pratica todos os dias, minha pequena Isabela tem tido excelentes noites de sono! Obrigada... 
+   </p>
+   <span class="infos">
+    Responder · Curtir · Seguir · 1h
+   </span>
+   <div class="perfil perfil2">
+    <span class="nome">
+     <img data-src="https://i.imgur.com/Bk0Afcv.jpg" class=" lazyloaded" src="https://i.imgur.com/Bk0Afcv.jpg">
+     <noscript>
+      <img src="https://i.imgur.com/Bk0Afcv.jpg"/>
+     </noscript>
+     Caio de Luccas
+    </span>
+    <p>
+     Funciona mesmo?
+    </p>
+    <span class="infos">
+     Responder · Curtir · Seguir · 46 min
+    </span>
+   </div>
+   <div class="perfil perfil2">
+    <span class="nome">
+     <img data-src="https://i.imgur.com/w2gHyjv.jpg" class=" ls-is-cached lazyloaded" src="https://i.imgur.com/w2gHyjv.jpg">
+     <noscript>
+      <img data-src="https://i.imgur.com/w2gHyjv.jpg" class="lazyload" src="https://i.imgur.com/w2gHyjv.jpg"/>
+      <noscript>
+       <img src="https://i.imgur.com/w2gHyjv.jpg"/>
+      </noscript>
+      Stefanny Bonifácio
+     
+    </span>
+    <p>
+     Eu segui todo o passo a passo e sim, funciona se você aplicar direitinho.
+    </p>
+    <span class="infos">
+     Responder · Curtir · Seguir · 46 min
+    </span>
+   </div>
+  </div>
+  <div class="perfil">
+   <span class="nome">
+    <img data-src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-02.15.19.png" class=" lazyloaded" src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-02.15.19.png">
+    <noscript>
+     <img src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-02.15.19.png"/>
+    </noscript>
+    Simone Martins
+   </span>
+   <p>
+    Eu queria ver a reação de uma mãe ao ver a bebê dormir a noite toda, deve ser igual ganhar a copa do mundo.  
+   </p>
+   <span class="infos">
+    Responder · Curtir · Seguir · 1h
+   </span>
+  </div>
+  <div class="perfil">
+   <span class="nome">
+    <img data-src="https://i.imgur.com/gU8VX1y.jpg" class=" lazyloaded" src="https://i.imgur.com/gU8VX1y.jpg">
+    <noscript>
+     <img src="https://i.imgur.com/gU8VX1y.jpg"/>
+    </noscript>
+    Ana Campos
+   </span>
+   <p>
+    Gente, realmente funciona!! Estou impressionada!!
+   </p>
+   <span class="infos">
+    Responder · Curtir · Seguir · 1h
+   </span>
+  </div>
+  <div class="perfil">
+   <span class="nome">
+    <img data-src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-02.17.29.png" class=" lazyloaded" src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-02.17.29.png">
+    <noscript>
+     <img src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-02.17.29.png"/>
+    </noscript>
+    Luiza Silva
+   </span>
+   <p>
+    Eu fiquei de cara, agora eu sei o motivo porque minha irmã vive de mal humor, minha sobrinha chora a noite toda...
+   </p>
+   <span class="infos">
+    Responder · Curtir · Seguir · 1h
+   </span>
+  </div>
+  <div class="perfil">
+   <span class="nome">
+    <img data-src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-02.19.46.png" class=" lazyloaded" src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-02.19.46.png">
+    <noscript>
+     <img src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-02.19.46.png"/>
+    </noscript>
+    Luana Campos
+   </span>
+   <p>
+    Simples e objetivo, sem enrolação, parabéns!!
+   </p>
+   <span class="infos">
+    Responder · Curtir · Seguir · 3h
+   </span>
+  </div>
+  <div class="perfil">
+   <span class="nome">
+    <img data-src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-02.22.01.png" class=" lazyloaded" src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-02.22.01.png">
+    <noscript>
+     <img src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-02.22.01.png"/>
+    </noscript>
+    Rafaela Alves
+   </span>
+   <p>
+    Como não tinha visto isso antes?? 
+   </p>
+   <span class="infos">
+    Responder · Curtir · Seguir · 2h
+   </span>
+   <div class="perfil">
+    <span class="nome">
+     <img data-src="https://i.imgur.com/G9reHrs.jpg" class=" lazyloaded" src="https://i.imgur.com/G9reHrs.jpg">
+     <noscript>
+      <img src="https://i.imgur.com/G9reHrs.jpg"/>
+     </noscript>
+     Gabriel Morais
+    </span>
+    <p>
+     <span style="color:#1D67CB;">Rebeca Barbosa</span> amiga vê isso logo kkkk, é mt bomm
+    </p>
+    <span class="infos">
+     Responder · Curtir · Seguir · 2h
+    </span>
+   </div>
+   <div class="perfil perfil2">
+    <span class="nome">
+     <img data-src="https://i.imgur.com/8NoCOk6.jpg" class=" lazyloaded" src="https://i.imgur.com/8NoCOk6.jpg">
+     <noscript>
+      <img src="https://i.imgur.com/8NoCOk6.jpg"/>
+     </noscript>
+     Rebeca Barbosa
+    </span>
+    <p>
+     Acabei de ver e comprei, vale super apenas, não sabia dessas tecnicas, a Iris ja esta entrando na rotina.
+    </p>
+    <span class="infos">
+     Responder · Curtir · Seguir · 3 min
+    </span>
+   </div>
+  </div>
+  <div class="perfil">
+   <span class="nome">
+    <img data-src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-02.23.32.png" class=" lazyloaded" src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-02.23.32.png">
+    <noscript>
+     <img src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-02.23.32.png"/>
+    </noscript>
+    Natiane Senna
+   </span>
+   <p>
+    Depois que eu apliquei essas tecnicas minha filha parou de chorar na minha cabeça, hoje penso em até ter mais filhos... 
+   </p>
+   <span class="infos">
+    Responder · Curtir · Seguir · 4h
+   </span>
+  </div>
+  <div class="perfil">
+   <span class="nome">
+    <img data-src="https://i.imgur.com/fZTj92F.jpg" class=" lazyloaded" src="https://i.imgur.com/fZTj92F.jpg">
+    <noscript>
+     <img src="https://i.imgur.com/fZTj92F.jpg"/>
+    </noscript>
+    Hygor Batista
+   </span>
+   <p>
+    Indiquei esse metodo para minha irmã e cunhado! 
+   </p>
+   <span class="infos">
+    Responder · Curtir · Seguir · 4h
+   </span>
+  </div>
+  <div class="perfil">
+   <span class="nome">
+    <img data-src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-02.25.05.png" class=" lazyloaded" src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-02.25.05.png">
+    <noscript>
+     <img src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-02.25.05.png"/>
+    </noscript>
+    Geovana Cardoso
+   </span>
+   <p>
+    Simplesmente Incrível! Só isso que tenho a dizer, Obrigada pessoal do Durma Neném!
+   </p>
+   <span class="infos">
+    Responder · Curtir · Seguir · 5h
+   </span>
+  </div>
+  <div class="perfil">
+   <span class="nome">
+    <img data-src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-02.28.23.png" class=" lazyloaded" src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-02.28.23.png">
+    <noscript>
+     <img src="https://durmanenem.com/wp-content/uploads/2021/08/Captura-de-Tela-2021-08-03-às-02.28.23.png"/>
+    </noscript>
+    Gabriela Duarte
+   </span>
+   <p>
+    Só digo uma coisa… Comprem! Eu e meu esposo so temos coisas boas a falar desse produto! Amamos o conteúdo e nos ajudou muito no cuidado da Belinha!
+   </p>
+   <span class="infos">
+    Responder · Curtir · Seguir · 5h
+   </span>
+  </div>
+ </div>
+ 
+ <style>
+  #comentarios_face {
+font-weight: 400;
+line-height: 1.5;
+color: #333;
+box-sizing: border-box;
+font-family: Arial;
+background-color: #F6F7F9;
+font-size: 14px;
+padding: 20px;} 
+.titulo_comentario {
+line-height: 1.5;
+color: #333;
+font-family: Arial;
+font-size: 14px;
+box-sizing: border-box;
+font-weight: bold;
+border-bottom: 1px solid #E9EBEE;
+display: block;
+padding-bottom: 6px;
+padding-left: 7px    
+}
+.perfil {
+ font-weight: 400;
+color: #333;
+font-family: Arial;
+font-size: 14px;
+box-sizing: border-box;
+display: block;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 4px;
+line-height: 20px;}
+.perfil p {
+    margin: 0;
+    margin-left: 60px;
+    margin-bottom: 0px;
+}
+.nome {
+font-family: Arial;
+font-size: 14px;
+line-height: 20px;
+box-sizing: border-box;
+color: #365899;
+font-weight: bold;
+}
+.infos {
+font-weight: 400;
+font-family: Arial;
+line-height: 20px;
+box-sizing: border-box;
+font-size: 11px;
+color: #90949c;
+cursor: pointer;
+}
+ .lazyloaded {
+font-family: Arial;
+font-size: 14px;
+line-height: 20px;
+color: #365899;
+font-weight: bold;
+box-sizing: border-box;
+opacity: 1;
+transition: opacity 400ms;
+transition-delay: 0ms;
+max-width: 100%;
+border: none;
+border-radius: 0;
+box-shadow: none;
+float: left;
+padding-right: 10px;
+width: 60px !important;
+height: 50px;}
+.perfil2 {
+font-weight: 400;
+color: #333;
+font-family: Arial;
+font-size: 14px;
+box-sizing: border-box;
+display: block;
+padding-top: 10px;
+line-height: 20px;
+padding-left: 9px;
+border-left: 1px solid #E9EBEE;
+margin-left: 50px;
+padding-bottom: 0;}
+
+ </style>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3a8b73bf elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="3a8b73bf" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.3 - 28-12-2021 */
+.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#2c2c2c;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);-ms-flex-negative:0;flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:-webkit-box;display:-ms-flexbox;display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-bottom:0;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}</style>		<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1dfee9dd elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="1dfee9dd" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-facebook-square"></i>						</span>
+										<span class="elementor-icon-list-text">Plug-in Social do Facebook</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-3fb38a0c durma1 elementor-widget elementor-widget-heading" data-id="3fb38a0c" data-element_type="widget" id="durma1" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Pare de ter pesadelos acordada... <br> <span class="title1">
+</span>Durma de forma saudável dominando esses 5 passos!<br>
+Você e seu Bebê!</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1d7347ea elementor-align-center durma1 elementor-widget elementor-widget-button" data-id="1d7347ea" data-element_type="widget" id="durma1" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://ev.braip.com/checkout/pla9xqp2/che14zve" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">EU QUERO ACESSO AO <U>SONO DE BEBÊ AGORA</U></span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4852998c durma1 elementor-widget elementor-widget-image" data-id="4852998c" data-element_type="widget" id="durma1" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="500" height="70" src="https://bebexpert.com.br/wp-content/uploads/2021/10/cartoes-2.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://bebexpert.com.br/wp-content/uploads/2021/10/cartoes-2.png 500w, https://bebexpert.com.br/wp-content/uploads/2021/10/cartoes-2-300x42.png 300w" sizes="(max-width: 500px) 100vw, 500px" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-df6c53c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="df6c53c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5a74455" data-id="5a74455" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-65b28c6e elementor-widget elementor-widget-heading" data-id="65b28c6e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">PIRATARIA <b>É CRIME</b></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-12d18869 elementor-widget elementor-widget-text-editor" data-id="12d18869" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.3 - 28-12-2021 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>A venda do <b>&#8220;Sono de bebê&#8221;</b> só pode ser realizada através deste site, registrado em nome de Gold Stage<b>.</b>&nbsp;Qualquer outro site onde você encontre este conteúdo é uma FALSIFICAÇÃO e vai contra as leis. Evite falsificações e recuse conteúdos ilegais ou pirateados. NÃO adquira programas parecidos e que não são baseados em uma base profissional. Não nos responsabilizamos por compras realizadas em outros sites.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c6abcc8" data-id="c6abcc8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-19507984 elementor-widget elementor-widget-image" data-id="19507984" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="https://bebexpert.com.br/wp-content/uploads/2021/10/Logo-sem-fundo-1.png" title="Logo sem fundo 1" alt="Logo sem fundo 1" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-936722 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="936722" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-551da40f" data-id="551da40f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7f1d074 elementor-widget elementor-widget-text-editor" data-id="7f1d074" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><b>Este site não é afiliado ao Facebook ou a qualquer entidade do Facebook.</b> Depois que você sair do Facebook, a responsabilidade não é deles e sim do nosso site. Fazemos todos os esforços para indicar claramente e mostrar todas as provas do produto e usamos resultados reais. Nós não vendemos o seu e-mail ou qualquer informação para terceiros. Jamais fazemos nenhum tipo de spam. Se você tiver alguma dúvida, sinta-se à vontade envia um email para ola@bebexpert.com.br e falar conosco em horário comercial de Segunda a Sextas das 09h00 ás 18h00. Lemos e respondemos todas as mensagens por ordem de chegada.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-460a721 elementor-align-center elementor-mobile-align-center elementor-icon-list--layout-inline elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="460a721" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://bebexpert.com.br/termos-de-uso" target="_blank">
+
+											<span class="elementor-icon-list-text">Termos de Uso</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<a href="https://bebexpert.com.br/politica-de-privacidade" target="_blank">
+
+											<span class="elementor-icon-list-text">Política de Privacidade</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c3b818d elementor-widget elementor-widget-html" data-id="c3b818d" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<script>
+(function(w,d,s,t){
+    if(w._brpBstr)return;w._brpBstr=t;var f=d.getElementsByTagName(s)[0],j=d.createElement(s);
+    j.async=true;j.src="https://ev.braip.com/js/braip-booster.js?v="+t;
+    f.parentNode.insertBefore(j,f);
+})(window,document,'script',Date.now());
+</script>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e6a4257 elementor-widget elementor-widget-html" data-id="e6a4257" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<script id="navegg" type="text/javascript">
+  (function(n,v,g){o="Navegg";if(!n[o]){
+    a=v.createElement('script');a.src=g;b=document.getElementsByTagName('script')[0];
+    b.parentNode.insertBefore(a,b);n[o]=n[o]||function(parms){
+    n[o].q=n[o].q||[];n[o].q.push([this, parms])};}})
+  (window, document, 'https://tag.navdmp.com/universal.min.js');
+  window.naveggReady = window.naveggReady||[];
+  window.nvg78685 = new Navegg({
+    acc: 78685
+  });
+</script>		</div>
+				</div>
+				<div class="elementor-element elementor-element-67ffc8df elementor-widget elementor-widget-html" data-id="67ffc8df" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<script type="text/javascript"
+            src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.16/jquery.mask.min.js"></script>
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+        
+<script>
+
+    $(document).ready(function () {
+        $('.dsb-btn').prop('disabled', true);
+        $(".mask-cel-ddd").mask("(00) 00000-0000");
+
+        $("#form-novamente").on('click', function () {
+            $(".modal-enviado").hide();
+            $(".modal-enviando").hide();
+            $(".box-espera").hide();
+            $(".modal-formulario").show();
+        });
+
+                //$("#enviaWhats").on('click', function () {
+                    //$(".modal-formulario").hide();
+                    //$(".box-espera").show();
+                   // $(".modal-enviando").show();
+
+                    //var timeleft = 4;
+                    //var downloadTimer = setInterval(function () {
+                        //document.getElementById("countdown").innerHTML = //timeleft;
+
+                        //timeleft -= 1;
+
+                        //if (timeleft == 0) {
+                         //   document.getElementById("segundos").innerHTML = 'segundo';
+                       // }
+
+                        //if (timeleft <= -1) {
+                        //    $(".modal-enviando").hide();
+                        //    $(".modal-enviado").show();
+                        //}
+                    //}, 1000);
+                    
+               // });
+               
+        
+            $("#enviaWhats").on('click', ()=> {
+                let fname = document.getElementsByName('fname')[0];
+                let phone = document.getElementsByName('phone')[0];
+            
+                if(fname.value.length === 0 || phone.value.length === 0) {
+                    console.log('Campos não podem ser vazios')
+                }
+            })
+    });
+            
+
+</script>
+
+<script>
+
+    $(".wpcf7-submit").click((evento)=>{
+     window.location.href = "https://ev.braip.com/checkout/pla961r0/cheod080"
+    });
+    
+    $("#btnAssistir1").click(()=> {
+        $("#modalFormulario").modal('show');
+    });
+    
+    $("#btnAssistir2").click(()=> {
+        $("#modalFormulario").modal('show');
+    });
+    
+</script>
+
+<script>
+
+    var classShowHideName = "durma1"
+    var showHides = document.getElementsByClassName(classShowHideName), i;
+
+    for (i = 0; i < showHides.length; i += 1) {
+        showHides[i].style.display = 'none';
+    }
+
+    function showIt3() {
+
+        for (i = 0; i < showHides.length; i += 1) {
+            showHides[i].style.display = 'block';
+        }
+    }
+    setTimeout(showIt3, 300000);
+    
+</script>		</div>
+				</div>
+				<div class="elementor-element elementor-element-236b415 elementor-widget elementor-widget-html" data-id="236b415" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<script src="https://code.jquery.com/jquery-3.5.1.js"
+        integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+
+
+    <!-- -->
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/smoothscroll/1.4.4/SmoothScroll.min.js"></script>
+		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><link rel='stylesheet' id='e-animations-css'  href='https://bebexpert.com.br/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.5.3' type='text/css' media='all' />
+<script type='text/javascript' src='https://bebexpert.com.br/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0' id='hello-theme-frontend-js'></script>
+<script type='text/javascript' src='https://bebexpert.com.br/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.3.1' id='elementor-pro-webpack-runtime-js'></script>
+<script type='text/javascript' src='https://bebexpert.com.br/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.5.3' id='elementor-webpack-runtime-js'></script>
+<script type='text/javascript' src='https://bebexpert.com.br/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.5.3' id='elementor-frontend-modules-js'></script>
+<script type='text/javascript' id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/bebexpert.com.br\/wp-admin\/admin-ajax.php","nonce":"25f13d16f1","urls":{"assets":"https:\/\/bebexpert.com.br\/wp-content\/plugins\/elementor-pro\/assets\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"pt_PT","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/bebexpert.com.br\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script type='text/javascript' src='https://bebexpert.com.br/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.3.1' id='elementor-pro-frontend-js'></script>
+<script type='text/javascript' src='https://bebexpert.com.br/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script type='text/javascript' src='https://bebexpert.com.br/wp-includes/js/jquery/ui/core.min.js?ver=1.13.0' id='jquery-ui-core-js'></script>
+<script type='text/javascript' id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Partilhar no Facebook","shareOnTwitter":"Partilhar no Twitter","pinIt":"Fix\u00e1-lo","download":"Download","downloadImage":"Descarregar Imagem","fullscreen":"\u00c9cr\u00e3 Inteiro","zoom":"Zoom","share":"Partilhar","playVideo":"Reproduzir v\u00eddeo","previous":"Anterior","next":"Seguinte","close":"Fechar"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Port\u00e1til","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.5.3","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"e_import_export":true,"additional_custom_breakpoints":true,"e_hidden_wordpress_widgets":true,"hello-theme-header-footer":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true,"form-submissions":true,"video-playlist":true},"urls":{"assets":"https:\/\/bebexpert.com.br\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"logo","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":9,"title":"Beb%C3%AA%20Expert%20%E2%80%93%20Portal%20do%20beb%C3%AA","excerpt":"","featuredImage":false}};
+</script>
+<script type='text/javascript' src='https://bebexpert.com.br/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.5.3' id='elementor-frontend-js'></script>
+<script type='text/javascript' src='https://bebexpert.com.br/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.3.1' id='pro-elements-handlers-js'></script>
+	</body>
+</html>
